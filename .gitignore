@@ -251,3 +251,4 @@ paket-files/
 .idea/
 *.sln.iml
 HangfireMultipleInstance/App_Data/logs/
+[Dd]eployment/
